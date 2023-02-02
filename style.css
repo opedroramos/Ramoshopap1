@@ -1,0 +1,27 @@
+#container{
+    max-width: 800px;
+    margin: 0px auto;
+}
+img{
+    display: block;
+    max-width: 100%;
+}
+#rodape{
+    padding: 80px;
+    background-color: #3D3D3D;
+    text-align: center;
+}
+p{
+    display: block;
+    color: white;
+    margin-top: 24px;
+}
+a{
+    display: block;
+    color: #ffffff;
+    font-size: 40px;
+    background-color: #00dd00;
+    border-radius: 12px;
+    padding: 12px;
+    border: 6px solid #ffffff;
+}
